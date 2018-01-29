@@ -1,2 +1,2 @@
-# pollregistry
-Poll a given docker registry and trigger custom commands.
+# scanregistry
+Scan a given docker registry and run atomic scanners per repository.
